@@ -9,6 +9,41 @@
      background-color: black;
 }
 
+
+#hanging-icons{
+     background-color:#212529;
+     
+}
+
+#hanging-icons p{
+     color: white;
+}
+
+#hanging-icons h3{
+     color: white !important;
+}
+#hanging-icons h2{
+     color: white;
+}
+
+#proyectos{
+     background-color: white;
+     font-size: medium;
+}
+
+#proyectos a{
+     text-decoration: none;
+     color: #ffffff;
+     font-size: small;
+     
+}
+
+#proyectos .btn-secondary {
+     background-color: #6c757d;
+     border: 1px solid #4a4a4a; 
+     text-align: center;
+}
+
 #contacto h1{
      color: #4E242D;
      font-weight: bold; 
@@ -32,18 +67,3 @@ footer p a{
      color: #4E242D;
 }
 
-#hanging-icons{
-     background-color:#212529;
-     
-}
-
-#hanging-icons p{
-     color: white;
-}
-
-#hanging-icons h3{
-     color: white !important;
-}
-#hanging-icons h2{
-     color: white;
-}
